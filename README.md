@@ -3,9 +3,9 @@
 > Real-time diabetes risk assessment with Pakistan cities dashboard
 
 ## 🌟 Live Demo
-🔗 **Live Website:** [Click Here](https://muqadas-g.github.io/diabetes-predictor/)  
+🔗 **Live Website:** [Click Here](https://cheery-tartufo-a70848.netlify.app/)  
 🤖 **Kaggle Notebook:** [View ML Code](https://kaggle.com/muqaddasimtiaz)  
-🚀 **Vercel:** [Alternate Link](https://diabetes-predictor.vercel.app)
+🚀 **Netlify:** [Alternate Link](https://cheery-tartufo-a70848.netlify.app/)
 
 ## 🚀 Quick Start
 ```bash
