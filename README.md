@@ -1,4 +1,3 @@
-Based on your analysis, here are key insights presented professionally. The report combines statistical findings, model evaluation, and practical implications to provide a comprehensive understanding of your diabetes prediction model's performance.
 
 ```markdown
 # 📊 Diabetes Prediction Model Analysis Report
@@ -43,6 +42,7 @@ A machine learning model was developed to predict diabetes risk based on key hea
 - **F1-Score:** 90%
 
 ## 🔍 Feature Importance Analysis
+<img width="670" height="480" alt="image" src="https://github.com/user-attachments/assets/86035d88-d0c6-4b9f-8104-a5e3d2ccb000" />
 
 ### Predictive Power Ranking:
 1. **Glucose Level** (Importance: 0.48) - **Most Significant**
@@ -55,6 +55,8 @@ A machine learning model was developed to predict diabetes risk based on key hea
 - Age shows correlation but lower direct predictive value
 
 ## 📊 Visual Analysis Insights
+<img width="657" height="596" alt="image" src="https://github.com/user-attachments/assets/4b7c553a-c2c7-4074-92a2-82311ac1621b" />
+
 
 ### 1. Age Distribution by Diabetes Status
 - **Diabetic patients** show bimodal distribution with peaks at 40-50 and 70-80 years
